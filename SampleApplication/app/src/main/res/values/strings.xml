@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApplication</string>
+    <string name="pass_your_name_to_jni">pass_your_name_to_jni</string>
+    <string name="return_string_array">return_string_array</string>
+</resources>
