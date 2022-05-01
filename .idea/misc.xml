@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_accelerometer_sensor.xml" value="0.1" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_background_service.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_battery_demo.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_change_language.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_fragment.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_implicit_intent.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_lifecycle.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_light_sensor.xml" value="0.1" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_linear_layout.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_listview.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_log.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_navigationd_drawer.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_proximity_sensor.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_recycler_view.xml" value="0.1" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_relative_layout.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_sensor.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_shared_preference.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_spinner.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/activity_tabbed.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/content_navigationd_drawer.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/fragment_1.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/fragment_2.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/fragment_tabbed.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/rawdata.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/layout/recyclerviewlayout.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/150054/AndroidStudioProjects/FinalApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

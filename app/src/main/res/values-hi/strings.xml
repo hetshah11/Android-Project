@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalApplication</string>
+    <string name="hello">Hello world</string>
+    <string name="what">आपका नाम क्या है</string>
+    <string name="where">आप कहाँ रहते हैं</string>
+    <string name="how">आप कैसे हैं</string>
+</resources>

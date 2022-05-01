@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical">
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Activity life cycle"
+                   android:id="@+id/alc"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Log Activity"
+                   android:id="@+id/log"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Implicit Intent"
+                   android:id="@+id/ii"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Fragement Activity"
+                   android:id="@+id/fa"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="LinearLayout Activity"
+                   android:id="@+id/lla"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="RelativeLayoutActivity"
+                   android:id="@+id/rla"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Sensors"
+                   android:id="@+id/sensors"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Accelerometer"
+                   android:id="@+id/as"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Light sensor"
+                   android:id="@+id/ls"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Proximity Sensor"
+                   android:id="@+id/ps"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Map Activity"
+                   android:id="@+id/ma"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="NAvigation Drawer"
+                   android:id="@+id/nd"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Tabbed Activity"
+                   android:id="@+id/ta"/>
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Spinner Activity"
+                   android:id="@+id/sa"/>
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Change Language"
+                   android:id="@+id/cl"
+                   />
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="ListView Activity"
+                   android:id="@+id/lva"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="RecyclerView Activity"
+                   android:id="@+id/rva"
+                   />
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Backgroud Service"
+                   android:id="@+id/bms"/>
+
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="100dp"
+               android:orientation="horizontal"
+               android:gravity="center"
+               android:weightSum="2">
+
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Battery receiver"
+                   android:id="@+id/brcvr"
+                   />
+
+               <Button
+                   android:layout_weight="1"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_margin="10dp"
+                   android:text="Log Activity"/>
+
+           </LinearLayout>
+
+
+
+       </LinearLayout>
+
+   </ScrollView>
+
+</LinearLayout>
